@@ -12,8 +12,8 @@ Technologies & Frameworks: React, Redux, Laravel, bootstrap, node, express, Jira
 
 /- Useful links:
 
-  *[LinkedIn](https://www.linkedin.com/in/nourelhouda-salhi-072b282a7/)*
-  *[Instagram](https://www.instagram.com/noorelhoouda/)*
+ - *[LinkedIn](https://www.linkedin.com/in/nourelhouda-salhi-072b282a7/)*
+ - *[Instagram](https://www.instagram.com/noorelhoouda/)*
 
 
 <!---
