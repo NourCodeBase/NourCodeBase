@@ -8,7 +8,7 @@
 /- Tools I master:
 
 Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongo db.
-Technologies & Frameworks: React, Redux, Laravel, bootstrap, node, express, Jira.
+>Technologies & Frameworks: React, Redux, Laravel, bootstrap, node, express, Jira.
 
 /- Useful links:
 
