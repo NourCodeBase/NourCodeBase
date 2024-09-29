@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nourelhouda SALHI a Full stack web developer
 
-- 🏠I'm from Fez, currently staying in Casablanca, Morocco
+- 🏠I'm from Fez, Morocco
 - 👀 I’m interested in web development
 - 🌱 I am in the process of enhancing my programming skills.
 - 💞️ My goal is to collaborate on a project that is both creative and interesting.
