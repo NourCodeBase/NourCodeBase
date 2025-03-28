@@ -1,16 +1,15 @@
 ## 👋 Hi, I’m Nourelhouda SALHI a Full stack web developer
 
-- 🏠I'm from Fez, Morocco
+- 🏠I'm from Morocco
 - 👀 I’m interested in web development
 - 🌱 I am in the process of enhancing my programming skills.
-- 💞️ My goal is to collaborate on a project that is both creative and interesting.
 - 📫 How to reach me <nourelhouda.salhi.contact@gmail.com>
 
 #### Languages and Tools:
 
->Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongo db.
+>Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongodb.
 >
->Technologies & Frameworks: React, Redux, Laravel, bootstrap, node, express, Jira.
+>Technologies & Frameworks: React, Laravel, bootstrap, nodeJs, Jira.
 
 #### Connect with me:
 
